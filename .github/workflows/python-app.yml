@@ -37,3 +37,6 @@ jobs:
     - name: Python application
       run: |
         python module_calculator.py
+    - name: Python application
+      run: |
+        python gfg.py
